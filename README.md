@@ -1,1 +1,1 @@
-# 3-c-y-
+# Just a traditional Vietnamese card game built with C language
